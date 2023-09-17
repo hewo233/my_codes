@@ -1,0 +1,3 @@
+C:/learn/CS/codes/c/LIST/mb_LIST/cmake-build-debug/CMakeFiles/mb_LIST.dir
+C:/learn/CS/codes/c/LIST/mb_LIST/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/learn/CS/codes/c/LIST/mb_LIST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
