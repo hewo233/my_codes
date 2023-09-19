@@ -80,6 +80,6 @@ int main()
     
     int det = determinant(matrix, n);
     printf("The determinant is: %d\n", det);
-    
+    system("pause");
     return 0;
 }
